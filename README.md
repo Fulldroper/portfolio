@@ -1,9 +1,13 @@
 Senior Backend / Systems Engineer
 
 Location: Ukraine (Remote)
+
 GitHub: https://github.com/Fulldroper
+
 Email: [full_droper@pm.me](mailto:full_droper@pm.me) 
+
 Portfolio: [fulldroper.github.io/portfolio](https://fulldroper.github.io/portfolio)
+
 LinkedIn: [linkedin.com](www.linkedin.com/in/fulldroper)
 
 
@@ -128,8 +132,6 @@ Active open-source developer creating developer tools, desktop utilities, and ba
 
 GitHub
 https://github.com/Fulldroper
-
-(бажано додати: **stars / downloads / community usage**)
 
 ---
 
